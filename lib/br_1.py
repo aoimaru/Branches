@@ -12,3 +12,8 @@ class BR1(object):
     def age(self):
         return self._age
     
+    def age_check(self):
+        if self._age >= 20:
+            return True
+        else:
+            return False
