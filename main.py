@@ -7,7 +7,7 @@ def main():
     # 後で引数を追加(マージ後?)
     br1 = BR1("AOI")
     print(br1.name)
-    print("OK2 from main")
+    print("OK2 from main2")
 
 
 if __name__ == "__main__":
